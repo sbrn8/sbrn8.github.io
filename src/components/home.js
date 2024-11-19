@@ -15,10 +15,10 @@ const Home = () => {
         <nav className='navbar'>
             <a className="logo">👩🏻‍💻</a>
             <ul className="nav-links">
-                <li><a href="#about">About</a></li>
-                <li><a href="#resume">Resume</a></li>
-                <li><a href="#experience">Experience</a></li>
-                <li><a href="#contact">Contact</a></li>
+               
+                <li><a href="#experience">Experiences</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="https://www.linkedin.com/in/sfang288/">LinkedIn</a></li>
             </ul>
         </nav>
         <section className="home-gallery">

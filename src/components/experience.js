@@ -22,7 +22,7 @@ const experiences = [
       heading: "Team Captain",
       subheading: "FIRST Robotics Competition team 7659",
       date: "2019/09 - 2023/08",
-      description: "Managed a team of 40, developed code for Automous routine, engineered robot, organized outreach events",
+      description: "Managed a team of 40, developed code for Automous routine, engineered robot, organized outreach events.",
       image: frc,
     },
     {
@@ -36,7 +36,7 @@ const experiences = [
 
 const Experience = () => {
     return (
-        <section className="experience-section">
+        <section className="experience-section" id="experience">
           <h2>Leadership Experience</h2>
           <div className="experience-grid">
             {experiences.map((experience, index) => (

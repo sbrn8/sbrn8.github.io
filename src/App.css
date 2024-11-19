@@ -207,7 +207,9 @@ html {
 }
 
 .details-button {
-  align-items: center;
+  display: block;
+  margin: 15px auto 0;
+  background-color: #282c34;
   color: white;
   border: 1px;
   border-color: #282c34;
@@ -220,4 +222,11 @@ html {
 
 .details-button:hover {
   background-color: #D6526D;
+}
+
+
+
+.footer {
+  text-align: center;
+  padding: 10px 0px ;
 }
