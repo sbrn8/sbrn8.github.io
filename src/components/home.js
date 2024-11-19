@@ -10,7 +10,17 @@ import photo6 from '../assets/Taylor2.JPG';
 const Home = () => {
     const photos = [photo1, photo2, photo3, photo4, photo5, photo6]; 
   return (
+    
     <div>
+        <nav className='navbar'>
+            <a className="logo">👩🏻‍💻</a>
+            <ul className="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#resume">Resume</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
         <section className="home-gallery">
             <div className="intro">
                 <h1>Hello, I'm <span className="highlight-name">Sabrina Fang</span></h1>
@@ -23,9 +33,6 @@ const Home = () => {
                     ))}
                 </div>
             </div>
-        </section>
-        <section className="experience">
-                <h2>Leadership Experience</h2>
         </section>
     </div>
 
