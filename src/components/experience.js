@@ -15,7 +15,7 @@ const experiences = [
       heading: "Director of Finance",
       subheading: "UW VR Club",
       date: "2024/05 - Present",
-      description: "Revived the club, secured sponsorships, and managed the budget effectively.",
+      description: "Submit budget proposals for each term, track expenses and income using Excel.",
       image: uwvr,
     },
     {
