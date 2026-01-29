@@ -1,5 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
 
 .App {
   text-align: center;
@@ -40,9 +42,19 @@
   }
 }
 
-.highlight-name {
+.highlight-name h1 {
+  /* font-size: 12rem;
+  font-family: 'Libre Baskerville', serif;
   color: #D6526D;
-  font-weight: bold;
+  font-weight: bold; */
+
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-size: clamp(6rem, 12vw, 14rem);
+  font-weight: 700;
+  color: #D6526D;
+  line-height: 0.95;
+  letter-spacing: -0.03em;
 }
 
 body {
@@ -60,7 +72,7 @@ body {
 
 .intro {
   flex: 1;
-  text-align: left;
+  text-align: center;
   padding: 0;
   margin: 0; 
 }
@@ -209,7 +221,7 @@ html {
 
 .experience-card p {
   font-size: 1rem;
-  margin: 0 px;
+  margin: 0;
 }
 
 .details-button {
