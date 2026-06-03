@@ -16,7 +16,7 @@ function Navbar() {
                 <li><Link to="/about">About Me</Link></li>
                 <li><a href="#experience">Experiences</a></li>
                 <li><a href="#projects">Projects</a></li>
-                <li><a href="https://www.linkedin.com/in/sfang288/">LinkedIn</a></li>
+                <li><a href="https://www.linkedin.com/in/sabrinalfang/">LinkedIn</a></li>
             </ul>
         </nav>
   );
