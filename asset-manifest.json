@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.2520f3e4.css",
+    "main.css": "/static/css/main.9d32775d.css",
     "main.js": "/static/js/main.a6393a9a.js",
     "static/js/453.b21437c2.chunk.js": "/static/js/453.b21437c2.chunk.js",
     "static/media/Taylor2.JPG": "/static/media/Taylor2.1dab913c013d20a9d5b1.JPG",
@@ -10,12 +10,12 @@
     "static/media/UWlogo.png": "/static/media/UWlogo.1a339cafaa4de2d7d02a.png",
     "static/media/WLBClogo.png": "/static/media/WLBClogo.0fa9fdd5a00611337a89.png",
     "index.html": "/index.html",
-    "main.2520f3e4.css.map": "/static/css/main.2520f3e4.css.map",
+    "main.9d32775d.css.map": "/static/css/main.9d32775d.css.map",
     "main.a6393a9a.js.map": "/static/js/main.a6393a9a.js.map",
     "453.b21437c2.chunk.js.map": "/static/js/453.b21437c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2520f3e4.css",
+    "static/css/main.9d32775d.css",
     "static/js/main.a6393a9a.js"
   ]
 }
