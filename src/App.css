@@ -739,3 +739,41 @@ html {
     font-size: 1.5rem;
   }
 }
+
+.footer {
+  background-color: #1a1a1a;
+  color: #aaa;
+  padding: 32px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.9rem;
+}
+
+.footer-copy {
+  margin: 0;
+}
+
+.footer-links {
+  display: flex;
+  gap: 24px;
+}
+
+.footer-links a {
+  color: #aaa;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer-links a:hover {
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .footer {
+    flex-direction: column;
+    gap: 16px;
+    text-align: center;
+  }
+}

@@ -3,6 +3,7 @@ import Navbar from './navbar';
 import Project from './projects';
 import GraphicDesign from './graphicDesign';
 import FloatingNav from './floatingNav';
+import Footer from './footer';
 import taylor from '../assets/Taylor2.JPG';
 import uwLogo from '../assets/UWlogo.png';
 import uxlLogo from '../assets/ux_laurier_logo.jpeg';
@@ -69,6 +70,7 @@ const Home = () => {
 
       <Project />
       <GraphicDesign />
+      <Footer />
     </div>
 
 );

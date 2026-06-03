@@ -33,7 +33,7 @@ const projects = [
         title: "Delibrium – Real-Time Deliberation Platform",
         description: "A civic technology platform built for UW research that enables multi-device group decision-making using real-time WebSocket state synchronization and live shared visualizations.",
         tags: ["JavaScript", "WebSockets", "Petite Vue", "CSS"],
-        link: "https://github.com/delibrium"
+        github: "https://github.com/delibrium"
     },
     {
         title: "FocusStake – Web3 Accountability dApp",
