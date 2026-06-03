@@ -7,9 +7,10 @@ import img3 from '../assets/DevCon-main.png';
 
 
 const designs = [
+    { src: img3, alt: "DevCon Main Banner" },
     { src: img1, alt: "DDC Ice Cream Instagram Post" },
-    { src: img2, alt: "DDC Bonfire Instagram Post" },
-    { src: img3, alt: "DevCon Main Banner" }
+    { src: img2, alt: "DDC Bonfire Instagram Post" }
+    
 ];
 
 const GraphicDesign = () => {
