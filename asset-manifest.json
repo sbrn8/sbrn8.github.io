@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.83e057fd.css",
-    "main.js": "/static/js/main.3f4dbdd7.js",
+    "main.css": "/static/css/main.2520f3e4.css",
+    "main.js": "/static/js/main.a6393a9a.js",
     "static/js/453.b21437c2.chunk.js": "/static/js/453.b21437c2.chunk.js",
-    "static/media/yea.jpg": "/static/media/yea.6958934c3a4bb0458b00.jpg",
     "static/media/Taylor2.JPG": "/static/media/Taylor2.1dab913c013d20a9d5b1.JPG",
-    "static/media/Taylor.jpg": "/static/media/Taylor.2a81cc73dc411958d539.jpg",
-    "static/media/london.jpg": "/static/media/london.c59f1f623efee281dd8f.jpg",
-    "static/media/macao.jpg": "/static/media/macao.fd4f1d83d1475bbbd98c.jpg",
-    "static/media/drunk.JPG": "/static/media/drunk.0aafa8021678569e1e85.JPG",
+    "static/media/DDCbonfire.png": "/static/media/DDCbonfire.8495fe637e1243f462f2.png",
+    "static/media/DDCIceCream.png": "/static/media/DDCIceCream.a64d1ee754d0f279efe2.png",
+    "static/media/DevCon-main.png": "/static/media/DevCon-main.2cf9d079022e1c884940.png",
+    "static/media/UWlogo.png": "/static/media/UWlogo.1a339cafaa4de2d7d02a.png",
+    "static/media/WLBClogo.png": "/static/media/WLBClogo.0fa9fdd5a00611337a89.png",
     "index.html": "/index.html",
-    "main.83e057fd.css.map": "/static/css/main.83e057fd.css.map",
-    "main.3f4dbdd7.js.map": "/static/js/main.3f4dbdd7.js.map",
+    "main.2520f3e4.css.map": "/static/css/main.2520f3e4.css.map",
+    "main.a6393a9a.js.map": "/static/js/main.a6393a9a.js.map",
     "453.b21437c2.chunk.js.map": "/static/js/453.b21437c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83e057fd.css",
-    "static/js/main.3f4dbdd7.js"
+    "static/css/main.2520f3e4.css",
+    "static/js/main.a6393a9a.js"
   ]
 }
